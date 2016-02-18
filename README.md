@@ -1,7 +1,3 @@
-# CollegeSpace Android App
+# chat
 
-Android App for CollegeSpace
-
-# Things to discuss
-
-* [ ] React Native or Native?
+Web and Android Chat Application
