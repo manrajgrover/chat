@@ -1,4 +1,10 @@
 <?php
+/**
+ * @Author: Manraj Singh
+ * @Date:   2016-03-17 22:25:42
+ * @Last Modified by:   Manraj Singh
+ * @Last Modified time: 2016-03-17 22:26:04
+ */
 	$private = file_get_contents("../private/settings.json");
 	$json = json_decode($private, true);
 	define('DB_USERNAME', $json['username']);
